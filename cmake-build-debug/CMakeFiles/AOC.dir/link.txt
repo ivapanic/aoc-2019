@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/AOC.dir/main.cpp.o  -o AOC 

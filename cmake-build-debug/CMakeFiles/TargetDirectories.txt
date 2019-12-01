@@ -1,4 +1,0 @@
-/home/iva/Desktop/FER/AOC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/iva/Desktop/FER/AOC/cmake-build-debug/CMakeFiles/fuel_reqs1.dir
-/home/iva/Desktop/FER/AOC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/iva/Desktop/FER/AOC/cmake-build-debug/CMakeFiles/fuel_reqs2.dir

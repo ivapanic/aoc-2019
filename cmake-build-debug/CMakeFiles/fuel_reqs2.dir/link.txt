@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/fuel_reqs2.dir/day1/fuel_reqs2.cpp.o  -o fuel_reqs2 
